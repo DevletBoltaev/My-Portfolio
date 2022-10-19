@@ -1,3 +1,3 @@
 # DEVLET
 
-Это моё портфолио. Оно доступно по ссылке - https://devlet-develop.netlify.app/
+Это моё портфолио. Оно доступно по ссылке - https://devlet-boltaev.netlify.app/
